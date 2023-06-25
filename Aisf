@@ -1,0 +1,14 @@
+[
+  {
+    userId:1,
+    name:'Vikas',
+    address:'mahabubabad',
+    qualification:'Degree'
+  },
+  {
+    userId:2,
+    name:'Shravan',
+    address:'mahabubabad',
+    qualification:'Pg/MSW'  
+  }
+  ];
